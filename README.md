@@ -1,1 +1,1 @@
-# json-slurper-jenkins-pipeline-plugin
+# hello-world-jenkins-pipeline-plugin
