@@ -5,7 +5,7 @@
 
     ${it.getName}
 
-    <f:entry field="name" title="name" help="/plugin/hello_world/help-name.html">
+    <f:entry field="name" title="name" help="/plugin/hello-world-jenkins-pipeline-plugin/help-name.html">
         <f:textbox />
     </f:entry>
 </j:jelly>
